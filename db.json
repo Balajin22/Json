@@ -1,7 +1,9 @@
 {
-    "playerPosition":
-      {
-        "x":5.0,"y":5.0,"z":5.0
-      },
-    "maxPlayerHealth":100
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
 }
